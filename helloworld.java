@@ -4,7 +4,7 @@ public class helloworld {
   // TODO Auto-generated method stub
     System.out.println("Hello siran");
     System.out.println("Hello welcome to jenkins");
-	 System.out.println("new commit 1 8:42");
+	
 
  }
 
